@@ -14,7 +14,7 @@ Pygame 1.9.2
 
 PIP (already included on newer Python installations, older version need to have pip installed manually)
 
-In order to run the game you need to download and install Pygame 1.9.2, which handles the graphics, animation, and and sound. Using PIP is the easiest way to import the library of modules, however link below will take you to the download repository for Pygame. https://bitbucket.org/pygame/pygame/downloads/
+In order to run the game you need to download and install Pygame 1.9.2, which handles the graphics, animation, and sound. Using PIP is the easiest way to import the library of modules, however link below will take you to the download repository for Pygame. https://bitbucket.org/pygame/pygame/downloads/
 
 How to run
 -----------------------------------------
